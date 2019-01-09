@@ -1,0 +1,9 @@
+c:\users\yeh\documents\visual studio 2015\Projects\GeneticKeyboard1\GeneticKeyboard1\bin\Debug\GeneticKeyboard1.exe.config
+c:\users\yeh\documents\visual studio 2015\Projects\GeneticKeyboard1\GeneticKeyboard1\bin\Debug\GeneticKeyboard1.exe
+c:\users\yeh\documents\visual studio 2015\Projects\GeneticKeyboard1\GeneticKeyboard1\bin\Debug\GeneticKeyboard1.pdb
+c:\users\yeh\documents\visual studio 2015\Projects\GeneticKeyboard1\GeneticKeyboard1\obj\Debug\GeneticKeyboard1.Form1.resources
+c:\users\yeh\documents\visual studio 2015\Projects\GeneticKeyboard1\GeneticKeyboard1\obj\Debug\GeneticKeyboard1.Properties.Resources.resources
+c:\users\yeh\documents\visual studio 2015\Projects\GeneticKeyboard1\GeneticKeyboard1\obj\Debug\GeneticKeyboard1.csproj.GenerateResource.Cache
+c:\users\yeh\documents\visual studio 2015\Projects\GeneticKeyboard1\GeneticKeyboard1\obj\Debug\GeneticKeyboard1.exe
+c:\users\yeh\documents\visual studio 2015\Projects\GeneticKeyboard1\GeneticKeyboard1\obj\Debug\GeneticKeyboard1.pdb
+C:\Users\YEH\documents\visual studio 2015\Projects\GeneticKeyboard1\GeneticKeyboard1\obj\Debug\GeneticKeyboard1.csprojResolveAssemblyReference.cache
